@@ -1,3 +1,4 @@
+AtliQ Hospitality Analysis – Power _**BI[](url)**_
 AtliQ Hospitality Analysis – Power BI
 As part of the codebasics March month resume challenge, I have worked on this analysis project.
 Link to the Challenge
