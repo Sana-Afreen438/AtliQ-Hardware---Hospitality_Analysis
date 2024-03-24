@@ -1,13 +1,15 @@
-AtliQ Hospitality Analysis – Power _**BI[](url)**_
 AtliQ Hospitality Analysis – Power BI
+
 As part of the codebasics March month resume challenge, I have worked on this analysis project.
 Link to the Challenge
 Link to Interactive Dashboard
 
 Problem Statement
+
 "Atliq Grands, a leading luxury hotel chain in India, aims to regain market share and revenue through the incorporation of Business and Data Intelligence, facilitated by hiring a third-party service provider for insights from their historical data."
 
 Task List
+
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
 Create the metrics according to the metric list.
