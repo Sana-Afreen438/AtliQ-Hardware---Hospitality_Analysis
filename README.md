@@ -17,15 +17,19 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard
 
 Provided Mock-up Dashboard
+
 ![mock up dashboard_atliq grands](https://github.com/Sana-Afreen438/AtliQ-Hardware---Hospitality_Analysis/assets/99607942/a44d2e56-6e21-4d58-9287-258610384a0c)
 
 Data Model
+
 ![data_model](https://github.com/Sana-Afreen438/AtliQ-Hardware---Hospitality_Analysis/assets/99607942/09a68b3a-beaa-4567-8264-338fe7907e9b)
 
 Overall Analysis View
+
 ![overall_view](https://github.com/Sana-Afreen438/AtliQ-Hardware---Hospitality_Analysis/assets/99607942/a90e7899-256d-4085-b0b5-b5ebaf84054f)
 
 Monthly Analysis View
+
 ![monthly_view](https://github.com/Sana-Afreen438/AtliQ-Hardware---Hospitality_Analysis/assets/99607942/98004fd8-a63c-4874-9aa4-6252145d1561)
 
 Some Important insights from the Dashboard
